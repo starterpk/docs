@@ -1,6 +1,6 @@
 ![alt text](https://starterpk.js.org/assets/img/starterpack-logo.png "Starter Pack Logo")
 
-(starterpk.js.org) | [@StarterPackCLI](https://twitter.com/StarterPackCLI)
+[starterpk.js.org](https://starterpk.js.org) | [@StarterPackCLI](https://twitter.com/StarterPackCLI)
 
 # Documentation
 
