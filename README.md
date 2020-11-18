@@ -114,6 +114,7 @@ Here are a few things that you can help with:
 - Best Practices documentation for any of the technologies our Packs offer
 - Tests for our CLI/GUI tools
 - More extensive docs
+  ([Here's a Markdown cheatsheet if you're interested in helping to create/improve our docs](<(https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)>))
 - More Packs
 - Ways to make Starter Pack CLI/GUI extendable (so that users can customize packs if they choose to)
 - At the moment, our GUI is only tested to work on Mac devices. We (obviously) need to ensure that
@@ -122,3 +123,6 @@ Here are a few things that you can help with:
 
 Reach out over [Twitter](https://twitter.com/StarterPackCLI) or by making a Pull Request to any of
 our repos.
+
+We also recommend giving this great article a read on
+['How to Contribute to Open Source'](https://opensource.guide/how-to-contribute/)
