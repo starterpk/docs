@@ -45,7 +45,7 @@ One such example would be our Svelte Pack. This simply uses the same commands yo
 create a Svelte project with the Svelte CLI tool. The only difference here is that you don't have to
 ever worry about downloading or explicitly making use of Svelte's own CLI tool every time you want
 to make a new project. The same applies to React, Vue and Angular. Rather than using their own CLI
-tools, Starter Pack provides a single interface on top of all of them. And becuase it is just an
+tools, Starter Pack provides a single interface on top of all of them. And because it is just an
 interface (and not an implementation), whenever respective CLI tools (such as Angular, React,
 Svelte, and Vue) update, you can be sure that Starter Pack is still pulling in the latest version.
 
